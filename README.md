@@ -26,3 +26,7 @@ Bla Bla Bla ...
 [Enlace](https://www.google.es)
 
 ![](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)
+
+## Otra sección
+
+Esto es otro caso
